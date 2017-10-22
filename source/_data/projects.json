@@ -1,0 +1,22 @@
+[
+    {
+       "name":"Vote'n Roll",
+       "url":"https://votenroll.cheredeprince.net",
+       "desc":"Vote'n Roll est un site pour tester différentes méthodes pour obtenir les résultats d'élections."
+    },
+    {
+       "name":"La suite de Conway",
+       "url":"http://conway.cheredeprince.net",
+       "desc":"Ce site image la vidéo de ElJj sur la suite de Conway. C'est une suite numérique, qui finit toujours par réaliser un ensemble d'atomes quelque soit son premier terme."
+    },
+    {
+       "name":"Hercule VS l'hydre",
+       "url":"http://herculevshydre.cheredeprince.net",
+       "desc":"Ce site image la vidéo de ElJj sur l'hydre de Lerne en la combattant."
+    },
+    {
+       "name":"Le jeu de la vie",
+       "url":"http://life.cheredeprince.net",
+       "desc":"Une similation du jeu de la vie de Conway."
+    }
+]
