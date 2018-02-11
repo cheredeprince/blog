@@ -14,18 +14,18 @@ customize:
         enabled: true
         width: 50
         height: 50
-        url: /images/logo.png
+        url: /img/logo.png
         gravatar: false
     favicon: 
       # eg. generate with http://realfavicongenerator.net/
       desktop:
-        url: /images/favicon.ico
+        url: /img/favicon.ico
         gravatar: false
       android:
-        url: /images/favicon-192x192.png
+        url: /img/favicon-192x192.png
         gravator: false
       apple:
-        url: /images/apple-touch-icon.png
+        url: /img/apple-touch-icon.png
         gravator: false
     social_links:
         github: https://github.com/laBecasse
