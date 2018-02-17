@@ -37,7 +37,7 @@ Vous comprenez et acceptez que Chère de Prince ne puisse être tenue responsabl
     - la résiliation de votre compte ;
     - toute autre question relative au service.
 5. L’échec de Chère de Prince à exercer ou à appliquer tout droit ou disposition des Conditions Générale d’Utilisation ne constitue pas une renonciation à ce droit ou à cette disposition. Les Conditions d’Utilisation constituent l’intégralité de l’accord entre vous et Chère de Prince et régissent votre utilisation du service, remplaçant tous les accords antérieurs entre vous et Chère de Prince (y compris les versions précédentes des Conditions Générales d’Utilisation).
-6. Les questions sur les conditions de service doivent être envoyées via ce [formulaire de contact](https://cheredeprince.net/contact).
+6. Les questions sur les conditions de service doivent être envoyées à l'adresse becasse at cheredeprince.net.
 
 ## Modifications du service
 
