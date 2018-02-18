@@ -79,9 +79,9 @@ theme: cactus-dark
 # Feed
 feed:
   type: atom
-  path: atom.xml
+  path: /atom.xml
   limit: 20
-  hub:
+  hub: false
   content: true
 
 # Deployment

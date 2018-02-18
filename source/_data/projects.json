@@ -2,21 +2,31 @@
     {
        "name":"Vote'n Roll",
        "url":"https://votenroll.cheredeprince.net",
-       "desc":"Vote'n Roll est un site pour tester différentes méthodes pour obtenir les résultats d'élections."
+      "desc":"Vote'n Roll est un site pour tester différentes méthodes pour obtenir les résultats d'élections.",
+      "img": "img/projects/votenroll.png"
     },
     {
        "name":"La suite de Conway",
        "url":"http://conway.cheredeprince.net",
-       "desc":"Ce site image la vidéo de ElJj sur la suite de Conway. C'est une suite numérique, qui finit toujours par réaliser un ensemble d'atomes quelque soit son premier terme."
+      "desc":"Ce site image la vidéo de ElJj sur la suite de Conway. C'est une suite numérique, qui finit toujours par réaliser un ensemble d'atomes quelque soit son premier terme.",
+       "img": "img/projects/conway.gif"
     },
     {
        "name":"Hercule VS l'hydre",
        "url":"http://herculevshydre.cheredeprince.net",
-       "desc":"Ce site image la vidéo de ElJj sur l'hydre de Lerne en la combattant."
+      "desc":"Ce site image la vidéo de ElJj sur l'hydre de Lerne en la combattant.",
+      "img": "img/projects/herculevshydre.gif"
     },
+  {
+    "name":"Graphe mathématique",
+    "url":"https://cheredeprince.net/math",
+    "desc": "Un graphe contenant des définitions et des résultats mathématiques reliés suivant les dépendances des uns aux autres.",
+     "img": "img/projects/math.gif"
+  },
     {
        "name":"Le jeu de la vie",
        "url":"http://life.cheredeprince.net",
-       "desc":"Une similation du jeu de la vie de Conway."
+      "desc":"Une similation du jeu de la vie de Conway.",
+       "img": "img/projects/jeudelavie.gif"
     }
 ]
