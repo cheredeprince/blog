@@ -5,7 +5,7 @@ nav:
   Services: /services/
   Math: /math/
 
-projects_url: https://github.com/laBecasse
+projects_url: https://github.com/cheredeprince
 
 customize:
     gravatar:
@@ -28,7 +28,7 @@ customize:
         url: /img/apple-touch-icon.png
         gravator: false
     social_links:
-        github: https://github.com/laBecasse
+        github: https://github.com/cheredeprince
         twitter: https://twitter.com/CheredePrince
         facebook: https://www.facebook.com/cheredeprince/
 

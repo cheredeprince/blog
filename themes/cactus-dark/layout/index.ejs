@@ -5,7 +5,7 @@
   <p style="display: inline">
     <% if (theme.customize.social_links) { %>
       Retrouve-moi sur 
-      <ul id="socialinfo">
+    <ul id="socialinfo">
         <% for(var i in theme.customize.social_links) { %>
           <li><a class="icon" target="_blank" href="<%- url_for(theme.customize.social_links[i]) %>"><i class="fa fa-<%= i %>"></i></a></li>
         <% } %>
