@@ -15,7 +15,10 @@ L'éditeur de ce site est M.Buron.
 
 Ce site est hébergé par un particulier à Orsay. L'hébergeur est M.Buron.
 
-Vous pouvez me contacter ici : becasse at cheredeprince.net.
+Vous pouvez me contacter ici : 
+- par email: becasse at cheredeprince.net,
+- sur mastodon: @LaBecasse@mastodon.social,
+- sur matrix : #chatons:cheredeprince.net
 
 ## Détails Techniques 
 
