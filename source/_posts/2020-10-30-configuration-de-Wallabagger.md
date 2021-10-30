@@ -46,7 +46,7 @@ Maintenant, il faut rentrer les infos suivantes:
 
 # Utilisation
 
-Quand vous souhaitez ajouter une page à la Wallabag cliquez sur le bouton de l'extension. 
+Quand vous souhaitez ajouter une page à Wallabag, cliquez sur le bouton de l'extension. 
 <video src="utilisation.webm" controls></video>
 
 
