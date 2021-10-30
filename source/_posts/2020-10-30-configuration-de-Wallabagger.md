@@ -44,3 +44,13 @@ Maintenant, il faut rentrer les infos suivantes:
 <video src="wallabagger-parametrage.webm" controls></video>
 
 
+# Utilisation
+
+Quand vous souhaitez ajouter une page à la Wallabag cliquez sur le bouton de l'extension. 
+<video src="utilisation.webm" controls></video>
+
+
+# Sources
+
+- https://wallabag.org/fr/news/wallabagger-howto
+- https://open-time.net/post/2021/05/05/Premiers-pas-avec-Wallabag
