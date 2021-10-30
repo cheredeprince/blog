@@ -1,3 +1,3 @@
 deploy:
 	hexo generate
-	scp -r public/* cdp:/var/www/cheredeprince.net/blog/
+	rsync -ar public/* cdp:/var/www/cheredeprince.net/blog/
