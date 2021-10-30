@@ -22,15 +22,16 @@ Premièrement, pour que l'extension puisse accèder à votre compte, il faut lui
 
 Puis suivez les liens suivant : Mon compte > Gestion des clients API > Créer un nouveau client. Entrez un nom pour "Nom du client" et cliquez sur "Créer un nouveau client". 
 
-![](creation-de-cle.webm)
+<video src="creation-de-cle.webm" controls></video>
 
 ## Paramétrage de Wallabagger
 
 Gardez l'onglet de la clée de Wallabag ouvert. Et, il faut vous rendre dans les paramètres de l'extension Wallabagger. La procédure peut changer d'un navigateur à un autre:
 - dans Firefox, cliquez droit sur l'icône de l'extension, cliquez sur "Gérer l'extension", puis cliquez sur les trois points, puis "Préférences".
-![](wallabagger-parametre-firefox.webm)
+<video src="wallabagger-parametre-firefox.webm" controls></video>
 - dans Chrome, cliquez sur l'icône des extensions (la pièce de puzzle), puis sur les trois points en face de "Wallabagger", puis sur "Options".
-![](wallabagger-parametre-chrome.webm)
+<video src="wallabagger-parametre-chrome.webm" controls></video>
+
 
 
 Maintenant, il faut rentrer les infos suivantes: 
@@ -40,6 +41,6 @@ Maintenant, il faut rentrer les infos suivantes:
 - Nom d'utilisateur 
 - Mot de passe et cliquez sur "Obtenir un jeton"
 
-![](wallabagger-parametrage.webm)
+<video src="wallabagger-parametrage.webm" controls></video>
 
 
