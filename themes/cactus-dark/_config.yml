@@ -3,7 +3,7 @@ nav:
   À Propos: /apropos/
   Blog: /blog/
   Services: /services/
-  Math: /math/
+  Projets: /projets/
 
 projects_url: https://github.com/cheredeprince
 
@@ -27,10 +27,6 @@ customize:
       apple:
         url: /img/apple-touch-icon.png
         gravator: false
-    social_links:
-        github: https://github.com/cheredeprince
-        twitter: https://twitter.com/CheredePrince
-        facebook: https://www.facebook.com/cheredeprince/
 
     show_all_posts: false
     post_count: 5
