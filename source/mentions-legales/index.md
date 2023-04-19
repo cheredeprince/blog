@@ -13,7 +13,7 @@ Ce site est la propriété d'un particulier : M.Buron.
 
 L'éditeur de ce site est M.Buron.
 
-Ce site est hébergé par un particulier à Orsay. L'hébergeur est M.Buron.
+Ce site est hébergé par un particulier à Clermont-Ferrand. L'hébergeur est M.Buron.
 
 Vous pouvez me contacter ici : 
 - par email: becasse at cheredeprince.net,
