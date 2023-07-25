@@ -15,14 +15,14 @@ L'éditeur de ce site est M.Buron.
 
 Ce site est hébergé par un particulier à Clermont-Ferrand. L'hébergeur est M.Buron.
 
-Vous pouvez me contacter ici : 
-- par email: becasse at cheredeprince.net,
-- sur mastodon: @LaBecasse@mastodon.social,
-- sur matrix : #chatons:cheredeprince.net
+Pour me contacter, c'est sur la page de [contact](/contact).
 
 ## Détails Techniques 
 
-Les services proposés par Chère de Prince sont hébergés sur un serveur HP ProLiant MicroServer Gen8 G1610T avec système d'exploitation Ubuntu 16.04 derrière une connexion fibre. Les sauvegardes sont effectuées par Chère de Prince quotidiennement sur disques interne et hebdomadairement disque externe. 
+Les services proposés par Chère de Prince sont hébergés sur un serveur HP ProLiant MicroServer Gen8 G1610T avec système d'exploitation Debian 12 derrière une connexion fibre chez la [FDN](https://www.fdn.fr/). 
+
+Les sauvegardes sont effectuées quotidiennement sur un autre serveur chez une personne de confiance.
+
 ## Licence 
 
 L'ensemble du contenu de ce site est sous la licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

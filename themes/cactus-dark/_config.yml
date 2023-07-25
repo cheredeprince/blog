@@ -1,9 +1,9 @@
 nav:
   Accueil: /
-  À Propos: /apropos/
   Blog: /blog/
-  Services: /services/
+  Documentation: /documentation/
   Projets: /projets/
+  Contact: /contact/
 
 projects_url: https://github.com/cheredeprince
 
